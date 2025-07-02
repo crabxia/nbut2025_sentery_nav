@@ -1,0 +1,3 @@
+[submodule "src/nbut2025_serial"]
+	path = src/nbut2025_serial
+	url = git@github.com:crabxia/nbut2025_serial.git
